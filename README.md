@@ -314,7 +314,11 @@ Solved and reviewed computer science problems involving data structures, algorit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HemanthKusi/HemanthKusi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HemanthKusi/HemanthKusi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HemanthKusi/HemanthKusi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/HemanthKusi/HemanthKusi/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
