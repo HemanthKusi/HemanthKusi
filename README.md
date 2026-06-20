@@ -284,6 +284,8 @@ Solved and reviewed computer science problems involving data structures, algorit
 
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=HemanthKusi&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true&number_format=long&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&custom_title=Hemanth%20Kusi%27s%20GitHub%20Stats" />
 
+&cache_seconds=1800
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=HemanthKusi&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthKusi&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
